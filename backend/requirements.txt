@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+motor>=3.0.0
+pydantic
+pymongo>=4.0
+reportlab
